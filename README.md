@@ -50,7 +50,7 @@ network behaviour forecasting.
 
 <br>
 
-<a href="YOUR_5G_REPOSITORY_LINK">
+<a href="https://github.com/monalisamajumder06/5G-Network-Slicing-Project">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -165,11 +165,11 @@ More projects and experiments coming here...
 
 <p>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/monalisa-majumder/">
 <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:riyadina2020@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF6B6B">
 </a>
 
